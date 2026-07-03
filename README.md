@@ -1,32 +1,32 @@
 # FP&A Executive Financial Analytics Dashboard
 
-A **Financial Planning & Analysis (FP&A) analytics project** that tracks **Budget vs Actual performance**, identifies **variance drivers**, and visualizes **department financial trends** using Excel, SQL, Python, and BI dashboards.
+A Financial Planning & Analysis (FP&A) analytics project that tracks Budget vs Actual performance, identifies variance drivers, and visualizes department financial trends using Excel, SQL, Python, and BI dashboards.
 
-This project simulates the type of reporting used by **finance teams, CFO offices, and financial analysts** to monitor operational spending and support **data-driven financial decisions**.
+This project simulates the type of reporting used by finance teams, CFO offices, and financial analysts to monitor operational spending and support data-driven financial decisions.
 
 **Project Objective:**
 
-Finance teams must constantly monitor whether the organization is **spending according to plan**.
+Finance teams must constantly monitor whether the organization is spending according to plan.
 
 This project demonstrates how to:
 
-- Track **Budget vs Actual financial performance**
-- Identify **positive and negative variances**
-- Monitor **department expense trends**
-- Analyze **month-over-month financial performance**
-- Provide **executive-ready financial dashboards**
+- Track Budget vs Actual financial performance
+- Identify positive and negative variances
+- Monitor department expense trends
+- Analyze month-over-month financial performance
+- Provide executive-ready financial dashboards
 
-The goal is to transform raw financial data into **clear insights leadership can act on**.
+The goal is to transform raw financial data into clear insights leadership can act on.
 
 **Business Questions Answered:**
 
 This analysis answers key financial questions such as:
 
-- Which departments are **over budget or under budget**?
-- What are the **largest cost drivers across departments**?
-- Are expenses **increasing or decreasing over time**?
-- Which teams require **cost control or forecast adjustments**?
-- What financial patterns can help improve **future planning and budgeting**?
+- Which departments are over budget or under budget?
+- What are the largest cost drivers across departments?
+- Are expenses increasing or decreasing over time?
+- Which teams require cost control or forecast adjustments?
+- What financial patterns can help improve future planning and budgeting?
 
 **Tools & Technologies:**
 
