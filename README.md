@@ -1,4 +1,4 @@
-# 📊 FP&A Executive Financial Analytics Dashboard
+# FP&A Executive Financial Analytics Dashboard
 
 A **Financial Planning & Analysis (FP&A) analytics project** that tracks **Budget vs Actual performance**, identifies **variance drivers**, and visualizes **department financial trends** using Excel, SQL, Python, and BI dashboards.
 
