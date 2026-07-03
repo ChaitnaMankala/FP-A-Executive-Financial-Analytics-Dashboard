@@ -4,7 +4,7 @@ A **Financial Planning & Analysis (FP&A) analytics project** that tracks **Budge
 
 This project simulates the type of reporting used by **finance teams, CFO offices, and financial analysts** to monitor operational spending and support **data-driven financial decisions**.
 
-# Project Objective
+**Project Objective:**
 
 Finance teams must constantly monitor whether the organization is **spending according to plan**.
 
@@ -18,7 +18,7 @@ This project demonstrates how to:
 
 The goal is to transform raw financial data into **clear insights leadership can act on**.
 
-# Business Questions Answered
+**Business Questions Answered:**
 
 This analysis answers key financial questions such as:
 
@@ -28,7 +28,7 @@ This analysis answers key financial questions such as:
 - Which teams require **cost control or forecast adjustments**?
 - What financial patterns can help improve **future planning and budgeting**?
 
-# Tools & Technologies
+**Tools & Technologies:**
 
 | Tool | Purpose |
 |-----|------|
@@ -38,7 +38,7 @@ This analysis answers key financial questions such as:
 | Power BI / Tableau | Executive dashboards & visual reporting |
 | CSV datasets | Source financial data |
 
-# Key Financial Metrics
+**Key Financial Metrics:**
 
 The dashboard tracks several core FP&A metrics:
 
@@ -51,9 +51,9 @@ The dashboard tracks several core FP&A metrics:
 - Forecast vs Actual Performance
 - Top Overspending / Underspending Departments
 
-# Dashboard Overview
+**Dashboard Overview:**
 
-## Executive Financial Overview
+**- Executive Financial Overview:**
 
 Displays the overall company performance against budget.
 
@@ -64,7 +64,7 @@ Example metrics shown:
 - Department cost distribution
 - Financial performance summary
 
-## Department Variance Analysis
+**- Department Variance Analysis:**
 
 Identifies departments exceeding or underspending their budgets.
 
@@ -74,7 +74,7 @@ Helps finance teams:
 - Analyze spending patterns
 - Identify cost-saving opportunities
 
-## Monthly Expense Trend Analysis
+**- Monthly Expense Trend Analysis:**
 
 Tracks how company spending changes over time.
 
@@ -84,7 +84,7 @@ Useful for:
 - Identifying seasonal spending patterns
 - Monitoring operational efficiency
 
-# Financial Insights
+**Financial Insights**
 
 Insights from the analysis include:
 
