@@ -84,7 +84,7 @@ Useful for:
 - Identifying seasonal spending patterns
 - Monitoring operational efficiency
 
-**Financial Insights**
+**Financial Insights:**
 
 Insights from the analysis include:
 
