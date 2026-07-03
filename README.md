@@ -92,6 +92,3 @@ Insights from the analysis include:
 - IT maintained spending below budget through infrastructure optimization
 - Operations had the highest cost variance across departments
 - HR expenses remained stable month-over-month
-
-
-⭐ If you found this project helpful, feel free to explore the rest of my analytics portfolio projects.
